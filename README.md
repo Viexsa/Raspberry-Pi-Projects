@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-  <a href="https://github.com/Viexsa/Raspberry-Pi-Projects">
+  <a href="https://github.com/Viexsa/V/tree/main/images">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
   <br>
